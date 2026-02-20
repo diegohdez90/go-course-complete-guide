@@ -24,6 +24,13 @@
 # Go workspace file
 go.work
 
+# Go module files
+go.mod
+go.sum
+
+# build output
+**/app-essentials
+
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
