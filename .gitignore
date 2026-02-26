@@ -30,6 +30,7 @@ go.sum
 
 # build output
 **/app-essentials
+**/investment
 
 ### VisualStudioCode ###
 .vscode/*
